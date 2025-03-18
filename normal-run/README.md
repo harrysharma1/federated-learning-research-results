@@ -1,4 +1,4 @@
-# final-results: A Flower / PyTorch app
+# normal-run: A Flower / PyTorch app
 
 ## Install dependencies and project
 
@@ -8,7 +8,7 @@ pip install -e .
 
 ## Run with the Simulation Engine
 
-In the `final-results` directory, use `flwr run` to run a local simulation:
+In the `normal-run` directory, use `flwr run` to run a local simulation:
 
 ```bash
 flwr run .

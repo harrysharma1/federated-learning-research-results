@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "final-results"
+name = "normal-run"
 version = "1.0.0"
 description = ""
 license = "Apache-2.0"
@@ -21,8 +21,8 @@ packages = ["."]
 publisher = "harrysharma1"
 
 [tool.flwr.app.components]
-serverapp = "final_results.server_app:app"
-clientapp = "final_results.client_app:app"
+serverapp = "normal_run.server_app:app"
+clientapp = "normal_run.client_app:app"
 
 [tool.flwr.app.config]
 num-server-rounds = 3
