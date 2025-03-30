@@ -1,5 +1,7 @@
 # federated-learning-research-results
 
+For less hassle, please use Colab. To run on local machine, seek documentation [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
+
 ## Federated Learning only:
 
 - [Locally](https://github.com/harrysharma1/federated-learning-research-results/blob/main/DLG_Experiment_No_Added_PET.ipynb)
